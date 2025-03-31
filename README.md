@@ -3,18 +3,23 @@ This project explores air quality trends across multiple cities using Python. It
 
 ## 🚀 Features
 ✅ Data wrangling & preprocessing
+
 ✅ Exploratory Data Analysis (EDA)
+
 ✅ Statistical insights on air pollution trends
+
 ✅ Interactive visualization with Streamlit
 
 ## 🛠️ Setup Environment
 You can set up the environment using Anaconda or a standard Shell/Terminal method.
+
 🔹 Using Anaconda
 ```sh
 conda create --name main-ds python=3.12
 conda activate main-ds
 pip install -r requirements.txt
 ```
+
 🔹 Using Shell/Terminal
 ```sh
 mkdir proyek_analisis_data
