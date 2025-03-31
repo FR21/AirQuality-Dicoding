@@ -1,6 +1,4 @@
 # Air Quality Data Analysis & Interactive Dashboard
-
-## 📌 Project Overview
 This project explores air quality trends across multiple cities using Python. It covers data wrangling, exploratory data analysis (EDA), statistical analysis, and visualization. Additionally, an interactive dashboard is built using Streamlit to provide insights into air pollution patterns.
 
 ## 🚀 Features
@@ -35,7 +33,7 @@ streamlit run dashboard/dashboard.py
 ## 🌟 Explore the Dashboard
 Check out the interactive dashboard: [Live Dashboard](https://airquality-dicoding-felixrafael.streamlit.app/)
 
-##💡 Key Insights
+## 💡 Key Insights
 - Analyzed air quality trends (PM2.5, PM10, NO2, O3) across cities.
 - Examined the impact of temperature, humidity, and rainfall on pollution.
 - Identified cities with the highest pollution levels and seasonal variations.
