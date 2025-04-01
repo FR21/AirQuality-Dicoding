@@ -214,7 +214,7 @@ else:
             st.pyplot(fig)
 
         with col11:
-            st.dataframe(city_data[["year", "PM2.5", "Air_Quality_Category"]].rename(columns={"year": "Tahun"}))
+            st.dataframe(city_data[["year", "PM2.5", "Air_Quality_Category"]].rename(columns={"year": "Year"}))
         
         st.markdown("""
         ### **Legend**  
