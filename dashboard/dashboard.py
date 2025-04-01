@@ -217,7 +217,7 @@ else:
             st.dataframe(city_data[["year", "PM2.5", "Air_Quality_Category"]].rename(columns={"year": "Year"}))
         
         st.markdown("""
-        ### **Legend**  
+        ### **Indicator**  
 
         | **Category**            | **PM2.5 Range (µg/m³)** | **Color**   | **Meaning** |
         |------------------------|------------------|------------|---------|
